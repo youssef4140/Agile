@@ -1,0 +1,16 @@
+DOR:
+
+User story is written in a clear and concise manner.
+Acceptance criteria are defined and agreed upon by the team and stakeholders.
+Any dependencies or constraints are identified and addressed.
+UI/UX designs are created and reviewed.
+Any necessary user research or testing is conducted.
+
+
+DOD:
+Code is reviewed and unit tested.
+Code meets the team's coding standards and practices.
+User acceptance tests have been conducted and passed.
+User documentation has been created and reviewed.
+Any necessary bug fixes have been completed.
+
