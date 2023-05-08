@@ -1,0 +1,14 @@
+Sprint Goal:
+Enable user to create an account, view restaurants and search for restaurants by name and location
+
+Sprint duration: 1 week
+
+Selected product backlog items:
+ -User Account Management
+ -Restaurant Listing
+ -Restaurant Search
+
+Tasks:
+- Allow user to create read update and delete account
+- Design and implement list display for restaurants
+- implement search functionality on the listing page
